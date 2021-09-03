@@ -8,12 +8,12 @@ Pasta do repositório para documentação do projeto de School Scheduler.
 
 ## Requisitos
 
-![Tabela dos Requisitos](img/SchoolScheduler-Requisitos.png)
+![Tabela dos Requisitos](img/SchoolScheduler-Requisitos.jpg)
 
-![Tabela dos Glossário](img/SchoolScheduler-GlossarioReq.png)
+![Tabela dos Glossário](img/SchoolScheduler-GlossarioReq.jpg)
 
 ## Arquitetura
 
-![Arquitetrua do Projeto](img/SchoolScheduler-Arquitetura.png)
+![Arquitetrua do Projeto](img/SchoolScheduler-Arquitetura.jpg)
 
-![Diagrama de Componentes](img/SchoolScheduler-Components.png)
+![Diagrama de Componentes](img/SchoolScheduler-Components.jpg)

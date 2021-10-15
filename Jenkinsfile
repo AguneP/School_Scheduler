@@ -10,5 +10,11 @@ pipeline {
       }
     }
 
+    stage('Continuous_Delivery') {
+      steps {
+        echo 'aaa'
+      }
+    }
+
   }
 }
